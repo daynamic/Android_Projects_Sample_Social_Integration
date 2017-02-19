@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "251952185553",
+    "firebase_url": "https://twitterloginapfirebase.firebaseio.com",
+    "project_id": "twitterloginapfirebase",
+    "storage_bucket": "twitterloginapfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251952185553:android:a8c59d3675a73377",
+        "android_client_info": {
+          "package_name": "com.example.asharm93.twitterloginappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251952185553-hi00epcpl0rckkuqcad1sgo0vosca3p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asharm93.twitterloginappfirebase",
+            "certificate_hash": "9611CA96E422D83453A6D9F1D0162FD5071B6621"
+          }
+        },
+        {
+          "client_id": "251952185553-it15kbc1985e962s3e7dsoe6gfo5ea80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8DDHInzUzTi67zkoZU-FBkdJn8Ru7nas"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251952185553-it15kbc1985e962s3e7dsoe6gfo5ea80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
